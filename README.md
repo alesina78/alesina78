@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**alesina78/alesina78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# Olá! Eu sou Alessandro Giordano 👋
+# Olá! Eu sou Alessandro Giordano 👋
 
 ## Data Engineering & Analytics | SQL • PL/SQL • Python • ETL • Power BI
 
@@ -46,7 +35,3 @@ Formação superior em Análise e Desenvolvimento de Sistemas e especializaçõe
 ---
 
 *Este perfil reúne projetos de estudo, demonstrações técnicas e experimentos. Os dados utilizados nos projetos públicos são fictícios ou preparados especificamente para fins educacionais.*
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
