@@ -85,12 +85,11 @@ Fundador e arquiteto da **GATE4**, uma plataforma SaaS *multi-tenant* desenvolvi
 
 ---
 
-## 📈 Github Stats
+## 📊 Métricas & Atividade no GitHub
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alesina78&show_icons=true&theme=dark&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesina78&layout=compact&theme=dark&hide_border=true" />
-</p>
+* **Foco Principal:** Engenharia de Dados, Pipelines ETL, Analytics e Ecossistema Python/Oracle.
+* **Repositórios em Destaque:** 3 projetos ativos principais focados em arquitetura de dados (`gate4-data-platform`, `PBI`, `dsc`).
+* **Contribuições Constantes:** Automação e desenvolvimento contínuo em soluções corporativas e open-source.
 ---
 
 ## 📫 Conecte-se Comigo
