@@ -77,7 +77,7 @@ Fundador e arquiteto da **GATE4**, plataforma SaaS *multi-tenant* desenvolvida d
 ## 🎓 Formação Executiva & Certificações
 
 [![Status](https://img.shields.io/badge/STATUS-EM_ANDAMENTO-blue?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/alesina78)
-* **Pós-Graduação em Engenharia de Dados e Inteligência Artificial** — Previsão de conclusão: **Novembro/2027**
+* **Pós-Graduação em Engenharia de Dados e Inteligência Artificial** — Anhanguera **11/2027**
 
 [![Status](https://img.shields.io/badge/STATUS-CONCLUÍDO-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/alesina78)
 * **MBA em Ciência de Dados** — FACPRISMA (720h)
