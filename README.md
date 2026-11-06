@@ -88,12 +88,8 @@ Fundador e arquiteto da **GATE4**, uma plataforma SaaS *multi-tenant* desenvolvi
 ## 📈 Github Stats
 
 <p align="center">
-  <a href="https://github.com/alesin78">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=alesin78&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/alesin78">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesin78&layout=compact&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
-  </a>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alesin78&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesin78&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
