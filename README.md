@@ -2,7 +2,7 @@
 
 ### **Senior Data Engineer & Analytics Specialist | 25+ Years in Enterprise IT**
 
-*Bridging enterprise data architecture, legacy modernization and modern data engineering to transform complex data ecosystems into actionable intelligence.*
+*Bridging enterprise data architecture, legacy modernization, modern data engineering, and analytics engineering to transform complex data ecosystems into actionable intelligence.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alessandrolesina-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrolesina/)
 [![GitHub](https://img.shields.io/badge/GitHub-alesina78-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alesina78)
@@ -15,7 +15,7 @@
 
 Senior Data & Integration Professional with **25+ years of experience** designing, developing, optimizing and maintaining enterprise-grade systems across the **Financial, Retail and Industrial sectors**.
 
-My technical foundation was built in the **Oracle Enterprise ecosystem**, with extensive experience in Database Architecture, SQL, PL/SQL, Oracle Forms, APEX and ETL processes. Over the years, this expertise has evolved toward **Modern Data Engineering, Python-based data pipelines, cloud infrastructure and Analytics**.
+My technical foundation was built in the **Oracle Enterprise ecosystem**, with extensive experience in Database Architecture, SQL, PL/SQL, Oracle Forms, APEX and ETL processes. Over the years, this expertise has evolved toward **Modern Data Engineering, Python-based data pipelines, Analytics Engineering with dbt, cloud infrastructure and advanced Analytics**.
 
 I combine deep knowledge of relational databases and enterprise data integration with modern technologies to design scalable, reliable and business-oriented data solutions.
 
@@ -28,6 +28,7 @@ Professional experience in complex corporate environments and mission-critical s
 ### 🎯 Core Expertise
 
 - **Data Engineering:** ETL/ELT, Data Integration, Data Pipelines and Data Warehousing.
+- **Analytics Engineering:** dbt (Core), Modeling (Staging/Marts), Incremental Loads, Data Quality & Testing.
 - **Database Engineering:** Oracle, PostgreSQL, SQL, PL/SQL and Performance Tuning.
 - **Modern Data Stack:** Python, Pandas, NumPy, Docker and OCI.
 - **Analytics & BI:** Data Modeling, Power BI, DAX and Business Intelligence.
@@ -39,20 +40,21 @@ Professional experience in complex corporate environments and mission-critical s
 
 **Founder & Technical Architect | GATE4 — Intelligent Equine Management Ecosystem**
 
-GATE4 is my proprietary SaaS platform designed to modernize the management of equestrian centers, combining operational intelligence, financial management and animal health monitoring.
+GATE4 is my proprietary SaaS platform designed to modernize the management of equestrian centers, combining operational intelligence, financial management, and animal health monitoring.
 
-The platform is being developed around a multi-tenant architecture, with a focus on business intelligence, operational automation and data-driven decision-making.
+The platform's data ecosystem features a complete end-to-end pipeline, moving from synthetic data generation and quality validation to modern transformations using **dbt (Analytics Engineering)**.
 
 ### Key Solutions
 
 - **Multi-Tenant Architecture:** Centralized management of equestrian operations, customers, horses and financial information.
+- **Analytics Engineering (dbt):** Layered transformation architecture (`staging`, `marts`, incremental models) with automated schema and singular testing.
 - **Intelligent Inventory:** Proprietary Economic Order Quantity (EOQ/LEC) calculation using 12 business variables.
 - **Operational Intelligence:** Central decision-making dashboard with management indicators and operational alerts.
 - **Process Automation:** Business workflows and WhatsApp integration initiatives.
 
 ### Technology Stack
 
-`Python` · `Django` · `PostgreSQL` · `Oracle Cloud Infrastructure` · `Docker` · `Linux` · `Nginx` · `Tailwind CSS`
+`Python` · `dbt Core` · `Django` · `PostgreSQL` · `Oracle Cloud Infrastructure` · `Docker` · `Linux` · `Nginx` · `Tailwind CSS`
 
 ---
 
@@ -67,8 +69,9 @@ The platform is being developed around a multi-tenant architecture, with a focus
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### 🔄 Data Integration, ETL & Oracle Ecosystem
+### 🔄 Data Integration, ETL, dbt & Oracle Ecosystem
 
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Oracle ODI](https://img.shields.io/badge/Oracle_ODI-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Pentaho-0E5A8A?style=flat-square&logo=hitachivantara&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -96,7 +99,7 @@ The platform is being developed around a multi-tenant architecture, with a focus
 
 | Repository | Technical Focus | Status |
 |:---|:---|:---:|
-| 🏗️ [**gate4-data-platform**](https://github.com/alesina78/gate4-data-platform) | Data Engineering, ETL pipelines, dimensional Data Warehouse and analytical experiments using synthetic GATE4 business data. | `Active` |
+| 🏗️ [**gate4-data-platform**](https://github.com/alesina78/gate4-data-platform) | Data Engineering, ETL pipelines, dimensional Data Warehouse, **dbt Analytics Engineering** and analytical experiments. | `Active` |
 | 📊 [**PBI**](https://github.com/alesina78/PBI) | Power BI, DAX, Star Schema, dimensional modeling and executive dashboards. | `Active` |
 | 🔬 [**dsc**](https://github.com/alesina78/dsc) | Data Science laboratory: Exploratory Data Analysis (EDA), Python and Machine Learning studies. | `Active` |
 
@@ -132,11 +135,11 @@ Open to strategic opportunities in **Brazil, Portugal and Spain**, working remot
 
 ### Areas of Interest
 
-**Data Engineering • Database Engineering • PL/SQL Development • Data Integration • Analytics Architecture**
+**Data Engineering • Analytics Engineering • Database Engineering • PL/SQL Development • Data Integration**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrolesina/)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giordano.dba@gmail.com)
 
 ---
 
-*Building on 25+ years of enterprise technology experience, continuously evolving toward the future of Data Engineering.*
+*Building on 25+ years of enterprise technology experience, continuously evolving toward the future of Data Engineering & Analytics.*
