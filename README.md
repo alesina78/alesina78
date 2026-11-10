@@ -2,7 +2,7 @@
 
 ### **Senior Data Engineer & Analytics Specialist | 25+ Years in Enterprise IT**
 
-*Bridging enterprise data architecture, legacy modernization, modern data engineering, and analytics engineering to transform complex data ecosystems into actionable intelligence.*
+*Bridging enterprise data architecture, legacy modernization, modern data engineering, and AI-driven analytics engineering to transform complex data ecosystems into actionable intelligence.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alessandrolesina-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrolesina/)
 [![GitHub](https://img.shields.io/badge/GitHub-alesina78-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alesina78)
@@ -13,11 +13,11 @@
 
 ## 👨‍💻 About Me
 
-Senior Data & Integration Professional with **25+ years of experience** designing, developing, optimizing and maintaining enterprise-grade systems across the **Financial, Retail and Industrial sectors**.
+Senior Data & Integration Professional with **25+ years of experience** designing, developing, optimizing, and maintaining enterprise-grade systems across the **Financial, Retail, and Industrial sectors**.
 
-My technical foundation was built in the **Oracle Enterprise ecosystem**, with extensive experience in Database Architecture, SQL, PL/SQL, Oracle Forms, APEX and ETL processes. Over the years, this expertise has evolved toward **Modern Data Engineering, Python-based data pipelines, Analytics Engineering with dbt, cloud infrastructure and advanced Analytics**.
+My technical foundation was built in the **Oracle Enterprise ecosystem**, with extensive experience in Database Architecture, SQL, PL/SQL, Oracle Forms, APEX, and ETL processes. Over the years, this expertise has evolved toward **Modern Data Engineering, Python-based data pipelines, Analytics Engineering with dbt, cloud infrastructure, and AI-Assisted Software Engineering (Agents, RAG, MCP & LLMs)**.
 
-I combine deep knowledge of relational databases and enterprise data integration with modern technologies to design scalable, reliable and business-oriented data solutions.
+I combine deep knowledge of relational databases and enterprise data integration with modern cloud & AI technologies to design scalable, reliable, and business-oriented data solutions.
 
 ### 🏢 Enterprise Experience
 
@@ -27,12 +27,13 @@ Professional experience in complex corporate environments and mission-critical s
 
 ### 🎯 Core Expertise
 
-- **Data Engineering:** ETL/ELT, Data Integration, Data Pipelines and Data Warehousing.
+- **Data Engineering:** ETL/ELT, Data Integration, Data Pipelines, and Data Warehousing.
 - **Analytics Engineering:** dbt (Core), Modeling (Staging/Marts), Incremental Loads, Data Quality & Testing.
-- **Database Engineering:** Oracle, PostgreSQL, SQL, PL/SQL and Performance Tuning.
-- **Modern Data Stack:** Python, Pandas, NumPy, Docker and OCI.
-- **Analytics & BI:** Data Modeling, Power BI, DAX and Business Intelligence.
-- **Enterprise Modernization:** Legacy Systems, Database Architecture and Application Integration.
+- **Artificial Intelligence & LLMs:** Prompt Engineering, Autonomous Agents, Tool Use, RAG (Retrieval-Augmented Generation), MCP (Model Context Protocol), and SDD (Spec-Driven Development).
+- **Database Engineering:** Oracle, PostgreSQL, SQL Server, SQL, PL/SQL, and Performance Tuning.
+- **Modern Data Stack:** Python, Pandas, NumPy, Docker, and Oracle Cloud Infrastructure (OCI).
+- **Analytics & BI:** Data Modeling, Power BI, DAX, and Business Intelligence.
+- **Enterprise Modernization:** Legacy Systems, Database Architecture, and Application Integration.
 
 ---
 
@@ -46,7 +47,7 @@ The platform's data ecosystem features a complete end-to-end pipeline, moving fr
 
 ### Key Solutions
 
-- **Multi-Tenant Architecture:** Centralized management of equestrian operations, customers, horses and financial information.
+- **Multi-Tenant Architecture:** Centralized management of equestrian operations, customers, horses, and financial information.
 - **Analytics Engineering (dbt):** Layered transformation architecture (`staging`, `marts`, incremental models) with automated schema and singular testing.
 - **Intelligent Inventory:** Proprietary Economic Order Quantity (EOQ/LEC) calculation using 12 business variables.
 - **Operational Intelligence:** Central decision-making dashboard with management indicators and operational alerts.
@@ -69,24 +70,25 @@ The platform's data ecosystem features a complete end-to-end pipeline, moving fr
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### 🔄 Data Integration, ETL, dbt & Oracle Ecosystem
+### 🤖 AI Engineering & Modern Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/AI_Agents-000000?style=flat-square&logo=openai&logoColor=white)
+![RAG & MCP](https://img.shields.io/badge/RAG%20%26%20MCP-412991?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### 🔄 Data Integration & Enterprise Tools
+
 ![Oracle ODI](https://img.shields.io/badge/Oracle_ODI-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Pentaho-0E5A8A?style=flat-square&logo=hitachivantara&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Oracle Forms](https://img.shields.io/badge/Oracle_Forms-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0055E5?style=flat-square&logo=json&logoColor=white)
-
-### 🐍 Programming, Data Science & Analytics
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### ⚙️ DevOps, Infrastructure & Development
+### ⚙️ DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -99,17 +101,19 @@ The platform's data ecosystem features a complete end-to-end pipeline, moving fr
 
 | Repository | Technical Focus | Status |
 |:---|:---|:---:|
-| 🏗️ [**gate4-data-platform**](https://github.com/alesina78/gate4-data-platform) | Data Engineering, ETL pipelines, dimensional Data Warehouse, **dbt Analytics Engineering** and analytical experiments. | `Active` |
-| 📊 [**PBI**](https://github.com/alesina78/PBI) | Power BI, DAX, Star Schema, dimensional modeling and executive dashboards. | `Active` |
-| 🔬 [**dsc**](https://github.com/alesina78/dsc) | Data Science laboratory: Exploratory Data Analysis (EDA), Python and Machine Learning studies. | `Active` |
+| 🤖 [**FundamentosIA**](https://github.com/alesina78/FundamentosIA) | AI Foundations, Prompt Engineering, Autonomous Agents, Tool Use, RAG, MCP (Model Context Protocol), Harness, and Spec-Driven Development (SDD). | `Active` |
+| ⚡ [**ai-driven-python-template**](https://github.com/alesina78/ai-driven-python-template) | Production-ready Python template structured for AI-assisted development (Claude/Cursor), clean architecture, automated testing, and Streamlit dashboards. | `Active` |
+| 🏗️ [**gate4-data-platform**](https://github.com/alesina78/gate4-data-platform) | Data Engineering, ETL pipelines, dimensional Data Warehouse, **dbt Analytics Engineering**, and analytical experiments. | `Active` |
+| 📊 [**PBI**](https://github.com/alesina78/PBI) | Power BI, DAX, Star Schema, dimensional modeling, and executive dashboards. | `Active` |
+| 🔬 [**dsc**](https://github.com/alesina78/dsc) | Data Science laboratory: Exploratory Data Analysis (EDA), Python, and Machine Learning studies. | `Active` |
 
-*These repositories represent my continuous technical development and practical application of modern data technologies.*
+*These repositories represent my continuous technical development and practical application of modern data & AI technologies.*
 
 ---
 
 ## 🎓 Education & Professional Certifications
 
-### <img src="https://img.shields.io/badge/IN_PROGRESS-Engineering_Data_%26_AI-0078D4?style=flat-square" />
+### <img src="https://img.shields.io/badge/IN_PROGRESS-Postgraduate_Program-0078D4?style=flat-square" />
 
 **Postgraduate Program in Data Engineering & Artificial Intelligence**  
 Anhanguera — Expected completion: November 2027.
@@ -121,25 +125,25 @@ Anhanguera — Expected completion: November 2027.
 - **Big Data — Data Science** — FACPRISMA (720h).
 - **Big Data & Cloud Computing** — FACPRISMA (640h).
 - **Artificial Intelligence** — FACPRISMA (640h).
-- **Systems Analysis & Development** — Universidade Feevale (2024–2025).
+- **Systems Analysis & Development** — Universidade Feevale.
 
 ### <img src="https://img.shields.io/badge/ORACLE-TECHNICAL_CERTIFICATION-F80000?style=flat-square&logo=oracle&logoColor=white" />
 
-**Introduction to Oracle9i: SQL (1Z0-007)** — Oracle, 2004.
+**Introduction to Oracle9i: SQL (1Z0-007)** — Oracle.
 
 ---
 
 ## 📫 Let's Connect
 
-Open to strategic opportunities in **Brazil, Portugal and Spain**, working remotely or in hybrid/on-site arrangements.
+Open to strategic opportunities in **Brazil, Portugal, and Spain**, working remotely or in hybrid/on-site arrangements.
 
 ### Areas of Interest
 
-**Data Engineering • Analytics Engineering • Database Engineering • PL/SQL Development • Data Integration**
+**Data Engineering • Analytics Engineering • AI Systems / LLM Integration • Database Engineering • PL/SQL Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrolesina/)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giordano.dba@gmail.com)
 
 ---
 
-*Building on 25+ years of enterprise technology experience, continuously evolving toward the future of Data Engineering & Analytics.*
+*Building on 25+ years of enterprise technology experience, continuously evolving toward the future of Data Engineering, AI & Analytics.*
