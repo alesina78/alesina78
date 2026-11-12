@@ -2,7 +2,7 @@
 
 ### **Senior Data Engineer & Analytics Specialist | 25+ Years in Enterprise IT**
 
-*Bridging enterprise data architecture, legacy modernization, modern data engineering, and AI-driven analytics engineering to transform complex data ecosystems into actionable intelligence.*
+*Bridging enterprise data architecture, legacy modernization, modern data engineering (Medallion, Data Quality, DuckDB, dbt), and AI-driven analytics to transform complex data ecosystems into actionable intelligence.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alessandrolesina-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrolesina/)
 [![GitHub](https://img.shields.io/badge/GitHub-alesina78-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alesina78)
@@ -15,9 +15,9 @@
 
 Senior Data & Integration Professional with **25+ years of experience** designing, developing, optimizing, and maintaining enterprise-grade systems across the **Financial, Retail, and Industrial sectors**.
 
-My technical foundation was built in the **Oracle Enterprise ecosystem**, with extensive experience in Database Architecture, SQL, PL/SQL, Oracle Forms, APEX, and ETL processes. Over the years, this expertise has evolved toward **Modern Data Engineering, Python-based data pipelines, Analytics Engineering with dbt, cloud infrastructure, and AI-Assisted Software Engineering (Agents, RAG, MCP & LLMs)**.
+My technical foundation was built in the **Oracle Enterprise ecosystem**, with extensive experience in Database Architecture, SQL, PL/SQL, Oracle Forms, APEX, and ETL processes. Over the years, this expertise has evolved toward **Modern Data Engineering (Medallion Architecture, Data Contracts, DuckDB, automated testing), Python-based pipelines, Analytics Engineering with dbt, cloud infrastructure, and AI-Assisted Software Engineering (Agents, RAG, MCP & LLMs)**.
 
-I combine deep knowledge of relational databases and enterprise data integration with modern cloud & AI technologies to design scalable, reliable, and business-oriented data solutions.
+I combine deep knowledge of relational databases and enterprise data integration with modern cloud, data quality governance, and AI technologies to design scalable, reliable, and business-oriented data solutions.
 
 ### 🏢 Enterprise Experience
 
@@ -27,35 +27,38 @@ Professional experience in complex corporate environments and mission-critical s
 
 ### 🎯 Core Expertise
 
-- **Data Engineering:** ETL/ELT, Data Integration, Data Pipelines, and Data Warehousing.
-- **Analytics Engineering:** dbt (Core), Modeling (Staging/Marts), Incremental Loads, Data Quality & Testing.
-- **Artificial Intelligence & LLMs:** Prompt Engineering, Autonomous Agents, Tool Use, RAG (Retrieval-Augmented Generation), MCP (Model Context Protocol), and SDD (Spec-Driven Development).
-- **Database Engineering:** Oracle, PostgreSQL, SQL Server, SQL, PL/SQL, and Performance Tuning.
-- **Modern Data Stack:** Python, Pandas, NumPy, Docker, and Oracle Cloud Infrastructure (OCI).
+- **Data Engineering & Architecture:** Medallion Architecture (Bronze/Silver/Gold), ETL/ELT, DuckDB Analytical Pipelines, Data Integration, and Data Warehousing.
+- **Data Quality & Governance:** Schema & Physiological Data Contracts (**Pandera**), Automated Quarantine Engines, JSON Quality Observability, and Unit Testing (**Pytest**).
+- **Analytics Engineering:** dbt (Core), Dimensional Modeling (Staging/Marts), Incremental Loads, and Automated Testing.
+- **Artificial Intelligence & LLMs:** Prompt Engineering, Autonomous Agents, Tool Use, RAG (Retrieval-Augmented Generation), MCP (Model Context Protocol), and Spec-Driven Development (SDD).
+- **Database Engineering:** Oracle, PostgreSQL, SQL Server, DuckDB, SQL, PL/SQL, and Performance Tuning.
+- **Modern Data Stack:** Python, Pandas, NumPy, Plotly, Streamlit, Docker, and Oracle Cloud Infrastructure (OCI).
 - **Analytics & BI:** Data Modeling, Power BI, DAX, and Business Intelligence.
-- **Enterprise Modernization:** Legacy Systems, Database Architecture, and Application Integration.
 
 ---
 
-## 🚀 Featured Project — GATE4
+## 🚀 Featured Projects
 
-**Founder & Technical Architect | GATE4 — Intelligent Equine Management Ecosystem**
+### 1. GATE4 — Intelligent Equine Management Ecosystem
+**Founder & Technical Architect**
 
 GATE4 is my proprietary SaaS platform designed to modernize the management of equestrian centers, combining operational intelligence, financial management, and animal health monitoring.
-
-The platform's data ecosystem features a complete end-to-end pipeline, moving from synthetic data generation and quality validation to modern transformations using **dbt (Analytics Engineering)**.
-
-### Key Solutions
-
 - **Multi-Tenant Architecture:** Centralized management of equestrian operations, customers, horses, and financial information.
 - **Analytics Engineering (dbt):** Layered transformation architecture (`staging`, `marts`, incremental models) with automated schema and singular testing.
 - **Intelligent Inventory:** Proprietary Economic Order Quantity (EOQ/LEC) calculation using 12 business variables.
-- **Operational Intelligence:** Central decision-making dashboard with management indicators and operational alerts.
-- **Process Automation:** Business workflows and WhatsApp integration initiatives.
+- **Tech Stack:** `Python` · `dbt Core` · `Django` · `PostgreSQL` · `OCI` · `Docker` · `Linux` · `Nginx` · `Tailwind CSS`
 
-### Technology Stack
+---
 
-`Python` · `dbt Core` · `Django` · `PostgreSQL` · `Oracle Cloud Infrastructure` · `Docker` · `Linux` · `Nginx` · `Tailwind CSS`
+### 2. 🐴 Equine Health Observatory — End-to-End Data Engineering Pipeline
+**Data Engineering & Clinical Decision Support (`desafio_eng_jr`)**
+
+A complete, reproducible end-to-end data pipeline built on the **UCI Horse Colic** clinical dataset, applying strict software engineering and data quality standards:
+- **Medallion Architecture:** Automated raw ingestion (**Bronze**), semantic cleaning and relational splitting (**Silver**), and high-performance analytical aggregations (**Gold** via **DuckDB**).
+- **Data Contracts & Quarantine:** Physiological boundary validation using **Pandera**, isolating anomalous records into traceable quarantine folders and emitting structured `quality_report.json` logs.
+- **Executive Cockpit:** Interactive **Streamlit + Plotly** dashboard divided into clinical triage zones, surgical decision profiles, and real-time pipeline observability.
+- **Developer Experience & Testing:** In-memory **Pytest** unit testing suite and single-command cross-platform automation (`Python` / `.bat` / `Makefile`).
+- **Tech Stack:** `Python` · `DuckDB` · `Pandera` · `Pytest` · `Streamlit` · `Plotly` · `SQL` · `Parquet`
 
 ---
 
@@ -66,17 +69,21 @@ The platform's data ecosystem features a complete end-to-end pipeline, moving fr
 ![Oracle](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### 🤖 AI Engineering & Modern Tech Stack
+### 🤖 Data Engineering, Quality & AI Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Pandera](https://img.shields.io/badge/Pandera_Contracts-2E8B57?style=flat-square&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![LLM Agents](https://img.shields.io/badge/AI_Agents-000000?style=flat-square&logo=openai&logoColor=white)
 ![RAG & MCP](https://img.shields.io/badge/RAG%20%26%20MCP-412991?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ### 🔄 Data Integration & Enterprise Tools
@@ -101,9 +108,10 @@ The platform's data ecosystem features a complete end-to-end pipeline, moving fr
 
 | Repository | Technical Focus | Status |
 |:---|:---|:---:|
+| 🐴 [**desafio_eng_jr**](https://github.com/alesina78/desafio_eng_jr) | End-to-End Medallion Data Pipeline (UCI Horse Colic) with **Pandera** data contracts, quarantine engine, **DuckDB** SQL analytics, **Pytest**, and **Streamlit** cockpit. | `Completed` |
+| 🏗️ [**gate4-data-platform**](https://github.com/alesina78/gate4-data-platform) | Data Engineering, ETL pipelines, dimensional Data Warehouse, **dbt Analytics Engineering**, and analytical experiments. | `Active` |
 | 🤖 [**FundamentosIA**](https://github.com/alesina78/FundamentosIA) | AI Foundations, Prompt Engineering, Autonomous Agents, Tool Use, RAG, MCP (Model Context Protocol), Harness, and Spec-Driven Development (SDD). | `Active` |
 | ⚡ [**ai-driven-python-template**](https://github.com/alesina78/ai-driven-python-template) | Production-ready Python template structured for AI-assisted development (Claude/Cursor), clean architecture, automated testing, and Streamlit dashboards. | `Active` |
-| 🏗️ [**gate4-data-platform**](https://github.com/alesina78/gate4-data-platform) | Data Engineering, ETL pipelines, dimensional Data Warehouse, **dbt Analytics Engineering**, and analytical experiments. | `Active` |
 | 📊 [**PBI**](https://github.com/alesina78/PBI) | Power BI, DAX, Star Schema, dimensional modeling, and executive dashboards. | `Active` |
 | 🔬 [**dsc**](https://github.com/alesina78/dsc) | Data Science laboratory: Exploratory Data Analysis (EDA), Python, and Machine Learning studies. | `Active` |
 
@@ -139,7 +147,7 @@ Open to strategic opportunities in **Brazil, Portugal, and Spain**, working remo
 
 ### Areas of Interest
 
-**Data Engineering • Analytics Engineering • AI Systems / LLM Integration • Database Engineering • PL/SQL Development**
+**Data Engineering • Analytics Engineering • Data Quality & Governance • AI Systems / LLM Integration • Database Engineering • PL/SQL Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrolesina/)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giordano.dba@gmail.com)
