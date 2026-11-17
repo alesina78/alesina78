@@ -25,6 +25,7 @@ What sets me apart: I don't just study these tools — I apply them in **GATE4**
 
 | What | Where | Status |
 |:--|:--|:--|
+| **FX Medallion ETL Pipeline** — Python, n8n, OpenAI LLM automated currency pipeline | [`etl-python-n8n-llm`](https://github.com/alesina78/etl-python-n8n-llm) | 🟢 Active |
 | **GATE4 Data Platform** — Medallion DW, dbt models, churn prediction pipeline | [`gate4-data-platform`](https://github.com/alesina78/gate4-data-platform) | 🟢 Active |
 | **AI Engineering** — Agents, RAG, MCP, Spec-Driven Development | [`FundamentosIA`](https://github.com/alesina78/FundamentosIA) | 🟢 Active |
 | **Power BI Portfolio** — DAX, Star Schema, executive dashboards | [`PBI`](https://github.com/alesina78/PBI) | 🟢 Active |
@@ -33,6 +34,18 @@ What sets me apart: I don't just study these tools — I apply them in **GATE4**
 ---
 
 ## 🚀 Featured Projects
+
+### 💱 FX Medallion ETL Pipeline with Python, n8n & LLM
+> [`etl-python-n8n-llm`](https://github.com/alesina78/etl-python-n8n-llm) · `Active`
+
+An end-to-end Medallion Architecture ETL pipeline ingesting daily foreign exchange (FX) rates from the **Frankfurter API**, standardizing relational records, and leveraging **OpenAI LLMs (`gpt-4o-mini`)** for automated financial commentary and market variation insights.
+
+- **Medallion Architecture:** Bronze (raw JSON payloads & audit trail) → Silver (normalized relational currency pairs with idempotent UPSERTs) → Gold (day-over-day `% variance` + AI executive summaries).
+- **Orchestration:** Fully functional via CLI or n8n workflow integration, combining classic database patterns with generative AI enrichment.
+
+**Stack:** `Python` · `SQLAlchemy` · `SQLite` · `Pandas` · `OpenAI API` · `n8n`
+
+---
 
 ### 🐎 GATE4 — Intelligent Equestrian Management Platform
 > *Proprietary SaaS · Founder & Technical Architect · Live in Production*
@@ -118,6 +131,7 @@ Production-ready Python project template structured for AI-assisted development 
 
 | Repository | Focus | Status |
 |:---|:---|:---:|
+| 💱 [**etl-python-n8n-llm**](https://github.com/alesina78/etl-python-n8n-llm) | Medallion Pipeline · Python · SQLAlchemy · n8n · OpenAI GPT-4o-mini | `Active` |
 | 🐴 [**desafio_eng_jr**](https://github.com/alesina78/desafio_eng_jr) | End-to-End Medallion Pipeline · Pandera contracts · DuckDB · Pytest · Streamlit cockpit | `Completed` |
 | 🏗️ [**gate4-data-platform**](https://github.com/alesina78/gate4-data-platform) | Data Engineering · dbt · Dimensional DW · ETL pipelines · Feature Store · Churn model | `Active` |
 | 🤖 [**FundamentosIA**](https://github.com/alesina78/FundamentosIA) | AI Agents · RAG · MCP · Prompt Engineering · Tool Use · Spec-Driven Development | `Active` |
